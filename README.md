@@ -12,16 +12,16 @@
 
 ## Home section
 ### An overview of the home section
-<img width="1377" alt="irycode cv" src="https://user-images.githubusercontent.com/86270481/213945799-b1d11044-d521-4982-9d22-b9adadee05ba.png">
+<img width="1377" alt="irydev cv" src="https://user-images.githubusercontent.com/86270481/213945799-b1d11044-d521-4982-9d22-b9adadee05ba.png">
 
 ### Home section responsive
 <p align="center"> 
-<img width="327" alt="irycode cv responsive" src="https://user-images.githubusercontent.com/86270481/214658596-6f417d8a-3dba-4e17-85ff-d4e8c7a7a518.png">
-<img width="323" alt="irycide cv responsive" src="https://user-images.githubusercontent.com/86270481/214658688-cb39dbf5-813e-40f9-b68f-ff3c0115ac0d.png">
+<img width="327" alt="irydev cv responsive" src="https://user-images.githubusercontent.com/86270481/214658596-6f417d8a-3dba-4e17-85ff-d4e8c7a7a518.png">
+<img width="323" alt="irydev cv responsive" src="https://user-images.githubusercontent.com/86270481/214658688-cb39dbf5-813e-40f9-b68f-ff3c0115ac0d.png">
 </p>
 
 
 
 ## Skills section
 ### An overview of the skills section
-<img width="1369" alt="irycode cv" src="https://user-images.githubusercontent.com/86270481/213945844-502c9b0e-3586-4159-9aa6-7aa3fcf38bf5.png">
+<img width="1369" alt="irydev cv" src="https://user-images.githubusercontent.com/86270481/213945844-502c9b0e-3586-4159-9aa6-7aa3fcf38bf5.png">
