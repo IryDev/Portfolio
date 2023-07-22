@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-### You don't have to scroll just touch the navbar links and let yourself be guided in my CV
+### You don't have to scroll just touch the navbar links and let yourself be guided in my portfolio
 
 ## Languages and Tools used
 
