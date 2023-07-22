@@ -1,16 +1,16 @@
 var hamburgerMenu = document.querySelector(".menu-hamburger");
-var navbarLinks = document.querySelector(".links-navbar");
+var navLinks = document.querySelector(".links-navbar");
 var contact_button = document.querySelector(".contact");
 var contact_button_mobile = document.querySelector(".contact-button")
-var carte = document.querySelector(".contactme");
+var card = document.querySelector(".contactme");
 
 function open() {
-  carte.classList.toggle("open");
+  card.classList.toggle("open");
 }
 
 function volet() {
   hamburgerMenu.classList.toggle("open");
-  navbarLinks.classList.toggle("mobile-menu");
+  navLinks.classList.toggle("mobile-menu");
 }
 
 hamburgerMenu.addEventListener("click", volet);
