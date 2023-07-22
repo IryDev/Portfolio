@@ -1,4 +1,4 @@
-# Personal CV
+# Personal Portfolio
 
 ### You don't have to scroll just touch the navbar links and let yourself be guided in my CV
 
